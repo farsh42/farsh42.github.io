@@ -1,29 +1,29 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
+title:            Farshid Imanipour
+description:      Thoughts, stories and ideas.
+disqus_shortname: farsh42
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: //farsh42.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Farshid Imanipour
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "Coder and entrepreneur from Shiraz."
+  email:          farshid.imanipour@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:        farsh42
+  facebook:       mirzafarshid
+  github:         farsh42
   stackexchange:  
-  linkedin:       
-  instagram:      
+  linkedin:       farshid-imanipour-a9374a97
+  instagram:      f4rsh
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    +farshid.imanipour
 
 # Background image to be tiled on all pages
 background: 
@@ -41,6 +41,8 @@ highlighter: pygments
 markdown:    kramdown
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
 sass:
   sass_dir: _sass
   style: compressed
@@ -56,7 +58,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  enable_coderay: true
 
   coderay:
     coderay_line_numbers: nil
