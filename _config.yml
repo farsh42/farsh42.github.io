@@ -9,7 +9,7 @@ url: //farsh42.github.io
 
 # Owner/author information
 owner:
-  name:           Farshid Imanipour
+  name:           Farshid
   avatar:         avatar.jpg
   bio:            "Coder and entrepreneur from Shiraz."
   email:          farshid.imanipour@gmail.com
@@ -23,7 +23,7 @@ owner:
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +farshid.imanipour
+  google_plus:    
 
 # Background image to be tiled on all pages
 background: 
